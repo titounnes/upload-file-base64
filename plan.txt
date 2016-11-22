@@ -1,0 +1,4 @@
+- Dalam rencana
+- Menggunakan canvas/svg untuk manipulasi image
+- Di split jadi potongan-potongan kecil untuk upload dengan ajax lalu di kumpulkan di server, mengatasi keterbatasan limit size saat submit,  
+- pembatasan file upload untuk mencegah upload file yang tidak diinginkan
